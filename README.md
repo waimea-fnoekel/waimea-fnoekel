@@ -1,9 +1,9 @@
 ## Hi there 👋
-##InNZ
-##Learning Coding at Waimea College
+InNZ
+Learning Coding at Waimea College
 
 <!--
-**waimea-fnoekel/waimea-fnoekel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**waimea-fnoekel/waimea-fnoekel** is a ✨ _speal_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
